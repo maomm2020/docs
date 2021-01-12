@@ -57,7 +57,7 @@
     "html-truncate": "^1.2.2",
     "hubdown": "^2.6.0",
     "imurmurhash": "^0.1.4",
-    "instantsearch.js": "^4.8.2",
+    "instantsearch.js": "^4.9.2",
     "ioredis": "^4.19.4",
     "ioredis-mock": "^5.2.0",
     "is-url": "^1.2.4",
